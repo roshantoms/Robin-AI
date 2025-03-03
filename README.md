@@ -1,7 +1,7 @@
-# Robin Assistant
+# Robin AI
 
 
-Robin Assistant is a voice-controlled personal assistant built with Python. It can perform various tasks like opening and closing applications, playing YouTube songs, and browsing websites through voice commands.
+A Voice-Controlled Personal Assistant built from scratch without any external AI models, capable of opening & closing apps, playing YouTube songs, and browsing websites through voice commands.
 
 
 ## Features
